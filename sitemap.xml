@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ramjisrk.github.io/index.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/index.html</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ramjisrk.github.io/about.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/about.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ramjisrk.github.io/treatment.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/treatment.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ramjisrk.github.io/gallery.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/gallery.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ramjisrk.github.io/education.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/education.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ramjisrk.github.io/blog.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/blog.html</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ramjisrk.github.io/contact.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/contact.html</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ramjisrk.github.io/thankyou.html</loc>
+    <loc>https://ramjisrk.github.io/ZRT/thankyou.html</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
+
